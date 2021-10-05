@@ -1,0 +1,33 @@
+<templateSet group="Dart">
+  <template name="print" value="print($VAR$$END$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="val" value="final $variableName$;" description="Change val to final" toReformat="false" toShortenFQNames="true">
+    <variable name="variableName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="kt" value="import 'package:kt_dart/kt.dart';" description="Import kotlin extension" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="jmodel" value="import 'package:json_annotation/json_annotation.dart';&#10;&#10;part '$NAME$.g.dart';&#10;&#10;@JsonSerializable()&#10;class $NAME$ {&#10;&#10;  factory $NAME$.fromJson(Map&lt;String, dynamic&gt; json) =&gt; _$$$NAME$FromJson(json);&#10;&#10;  Map&lt;String, dynamic&gt; toJson() =&gt; _$$$NAME$ToJson(this);&#10;}" description="Create json model" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="fmodel" value="import 'package:freezed_annotation/freezed_annotation.dart';&#10;&#10;part '$NAME$.freezed.dart';&#10;&#10;@freezed&#10;class $NAME$ with _$$$NAME$ {&#10;&#10;  const factory $NAME$({&#10;  $END$&#10;  })= _$NAME$;&#10;}&#10;" description="Create FreezeModel" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
