@@ -1,0 +1,40 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2021-01-20 16:09:44.385 1848-1848/? E/SELinux:" />
+        <option value="A/seveneleven.de: runtime.cc:657]" />
+        <option value="Could not find android.hardware.power.IPower/default in the VINTF manifest." />
+        <option value="D/OkHttp: access-control-allow-origin" />
+        <option value="D/OkHttp: cf-cache-status:" />
+        <option value="D/OkHttp: cf-ray" />
+        <option value="D/OkHttp: etag" />
+        <option value="D/OkHttp: expect-ct:" />
+        <option value="D/OkHttp: hod_header:" />
+        <option value="D/OkHttp: server: cloudflare" />
+        <option value="D/OkHttp: set-cookie:" />
+        <option value="D/OkHttp: x-powered-by:" />
+        <option value="D: Initializing SystemTextClassifier" />
+        <option value="E/GnssHAL_GnssInterface: gnssSvStatusCb" />
+        <option value="E/memtrack:" />
+        <option value="E/SELinux:" />
+        <option value="E/servicemanager: Could not find android.hardware.power.IPower/default" />
+        <option value="E: avc:  denied  { find }" />
+        <option value="E: Failed to open QEMU pipe" />
+        <option value="E: RemoteConnection failed" />
+        <option value="gnssSvStatusCb" />
+        <option value="I/GnssLocationProvider:" />
+        <option value="I/GnssLocationProvider: WakeLock released by" />
+        <option value="I/netd: tetherGetStats()" />
+        <option value="I/netd: trafficSwapActiveStatsMap()" />
+        <option value="I/okhttp_plus: expect-ct:" />
+        <option value="The system cannot find the batch label specified - after_subroutine" />
+        <option value="W: A resource failed to call" />
+        <option value="W: A resource failed to call release." />
+        <option value="W: Can't find service car_service" />
+        <option value="W: No service published" />
+        <option value="E: failed to connect to socket" />
+      </list>
+    </option>
+  </component>
+</application>

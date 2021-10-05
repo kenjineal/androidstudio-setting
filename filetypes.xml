@@ -1,0 +1,32 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="bloc_provider" type="AUTO_DETECTED" />
+      <mapping pattern="main_mission" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="x" type="PLAIN_TEXT" />
+      <mapping pattern="feed/root.json" type="PLAIN_TEXT" />
+      <mapping pattern="SkillEntity" type="PLAIN_TEXT" />
+      <mapping pattern="already_map_key" type="PLAIN_TEXT" />
+      <mapping pattern="ggwp" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="xx" type="PLAIN_TEXT" />
+      <mapping pattern="ss2" type="PLAIN_TEXT" />
+      <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern="testk" type="PLAIN_TEXT" />
+      <mapping pattern="1037" type="PLAIN_TEXT" />
+      <mapping pattern="build_retry" type="PLAIN_TEXT" />
+      <mapping pattern="update_script" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="ruby" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="yaml " type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="svg" approved="true" type="XML" />
+    </extensionMap>
+  </component>
+</application>
