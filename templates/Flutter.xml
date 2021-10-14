@@ -20,9 +20,4 @@
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="listviewBldr" value="ListView.builder(itemCount: $COUNT$,itemBuilder: (BuildContext context, int index) {return $WIDGET$;}, )," description="Create ListView.builder" toReformat="true" toShortenFQNames="true">
-    <variable name="COUNT" expression="&quot;count&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="WIDGET" expression="&quot;widget&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
