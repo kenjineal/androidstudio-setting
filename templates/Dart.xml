@@ -31,4 +31,11 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="rservice" value="import 'package:dio/dio.dart';&#10;import 'package:injectable/injectable.dart';&#10;import 'package:retrofit/http.dart';&#10;&#10;part '$NAME_SNAKE_CASE$.g.dart';&#10;&#10;@injectable&#10;@RestApi(baseUrl: &quot;&quot;)&#10;abstract class $NAME$ {&#10;&#10;  @factoryMethod&#10;  factory $NAME$() {&#10;    final dio = Dio();&#10;    return _$$$NAME$(dio);&#10;  }&#10;}" description="Create Retrofit Service" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME_SNAKE_CASE" expression="" defaultValue="snakeCase(NAME)" alwaysStopAt="false" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
