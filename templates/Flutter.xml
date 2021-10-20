@@ -20,19 +20,4 @@
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="container" value="Container(&#10;  child: $Widget$(),&#10;)," description="Create Container Widget" toReformat="true" toShortenFQNames="true">
-    <variable name="Widget" expression="&quot;Widget&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="cupeApp" value="import 'package:flutter/cupertino.dart';&#10; &#10;void main() =&gt; runApp($className$());&#10; &#10;class $className$ extends StatelessWidget {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return CupertinoApp(&#10;      title: 'Cupertino App',&#10;      home: CupertinoPageScaffold(&#10;        navigationBar: CupertinoNavigationBar(&#10;          middle: Text('Cupertino App Bar'),&#10;        ),&#10;        child: Center(&#10;          child: Container(&#10;            child: Text('Hello World'),&#10;          ),&#10;        ),&#10;      ),&#10;    );&#10;  }&#10;}" description="Create a New Cupertino App" toReformat="true" toShortenFQNames="true">
-    <variable name="className" expression="&quot;MyApp&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="dis" value="@override&#10;void dispose() { &#10;  // Add code before the super&#10;  super.dispose();&#10;}" description="Add dispose Override" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
-  <template name="build" value="@override &#10; Widget build(BuildContext context) { &#10; return $body$; &#10;}&#10;" description="No Such Method" toReformat="true" toShortenFQNames="true">
-    <variable name="body" expression="$body$" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
