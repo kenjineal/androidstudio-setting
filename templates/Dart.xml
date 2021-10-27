@@ -38,7 +38,7 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="usecase" value="import 'package:injectable/injectable.dart';&#10;import 'package:jarvis/core/helper/usecase_result.dart';&#10;&#10;abstract class $NAME$UseCase {&#10;  Future&lt;UseCaseResult&lt;$TYPE$&gt;&gt; execute();&#10;}&#10;&#10;@Injectable(as: $NAME$UseCase)&#10;class $NAME$UseCaseImpl extends $NAME$UseCase {&#10;  @override&#10;  Future&lt;UseCaseResult&lt;$TYPE$&gt;&gt; execute() async {&#10;    try {&#10;      $END$&#10;      return UseCaseResult.success();&#10;    } catch (error) {&#10;      return UseCaseResult.error(error);&#10;    }&#10;  }&#10;}&#10;" description="Create UseCase" toReformat="false" toShortenFQNames="true">
+  <template name="usecase" value="import 'package:injectable/injectable.dart';&#10;import 'package:suraking/core/helper/usecase_result.dart';&#10;&#10;abstract class $NAME$UseCase {&#10;  Future&lt;UseCaseResult&lt;$TYPE$&gt;&gt; execute();&#10;}&#10;&#10;@Injectable(as: $NAME$UseCase)&#10;class $NAME$UseCaseImpl extends $NAME$UseCase {&#10;  @override&#10;  Future&lt;UseCaseResult&lt;$TYPE$&gt;&gt; execute() async {&#10;    try {&#10;      $END$&#10;      return UseCaseResult.success();&#10;    } catch (error) {&#10;      return UseCaseResult.error(error);&#10;    }&#10;  }&#10;}&#10;" description="Create UseCase" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
