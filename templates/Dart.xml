@@ -50,19 +50,7 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="nn" value="if ($VAR$ != null){&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="DART_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="ut" value=";&#10;if ($VAR$ == null) return $END$;" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="DART_STATEMENT" value="true" />
-    </context>
-  </template>
-  <template name="null" value="if ($VAR$ == null){&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="nulll" value="if ($VAR$ == null) return $END$;" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_STATEMENT" value="true" />
