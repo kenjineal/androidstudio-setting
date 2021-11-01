@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="main" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="config" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Users\PattaravitK\AppData\Local\Atlassian\SourceTree\git_local\bin\sh.exe" />
-      <option name="PARAMETERS" value="main.sh" />
+      <option name="PARAMETERS" value="config.sh" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/script/" />
     </exec>
   </tool>
