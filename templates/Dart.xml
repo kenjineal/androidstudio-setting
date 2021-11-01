@@ -50,19 +50,19 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="nulll" value="if ($VAR$ == null) return $END$;" toReformat="false" toShortenFQNames="true">
+  <template name="nulll" value="if ($VAR$ == null) return $END$;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="for" value="for (int i = 0; i &lt; $VAR$.length; i++) {&#10;    final e = $VAR$[i];&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="for (int i = 0; i &lt; $VAR$.length; i++) {&#10;    final e = $VAR$[i];&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="forr" value="for (int i = $VAR$.length-1; i &gt;= 0; i--) {&#10;    final e = $VAR$[i];&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="forr" value="for (int i = $VAR$.length-1; i &gt;= 0; i--) {&#10;    final e = $VAR$[i];&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_STATEMENT" value="true" />
