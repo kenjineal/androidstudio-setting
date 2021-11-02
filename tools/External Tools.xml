@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\PattaravitK\AppData\Local\Atlassian\SourceTree\git_local\bin\sh.exe" />
       <option name="PARAMETERS" value="config.sh" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/script/" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/.intellij/" />
     </exec>
   </tool>
 </toolSet>
