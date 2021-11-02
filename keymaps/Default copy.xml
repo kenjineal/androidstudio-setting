@@ -22,7 +22,7 @@
   <action id="EditorDeleteToWordStart" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
-  <action id="ExternalToolsGroup">
+  <action id="ExternalTools_External Tools">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="ExtractMethod">
