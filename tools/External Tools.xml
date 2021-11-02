@@ -2,8 +2,8 @@
   <tool name="config" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Users\PattaravitK\AppData\Local\Atlassian\SourceTree\git_local\bin\sh.exe" />
-      <option name="PARAMETERS" value="config.sh" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/.intellij/" />
+      <option name="PARAMETERS" value=".intellij\config.sh" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
