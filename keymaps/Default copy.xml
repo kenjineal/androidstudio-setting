@@ -6,6 +6,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
   </action>
+  <action id="CIDR.Lang.IntroduceParameter" />
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.GroupBy.Module" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -20,8 +23,8 @@
   <action id="EditorDeleteToWordStart" />
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
-  <action id="ExtractMethod">
-    <keyboard-shortcut first-keystroke="ctrl m" />
+  <action id="ExternalTools_External Tools">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -36,12 +39,19 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="IntroduceParameter" />
   <action id="PreviousDiff" />
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="SmartStepInto" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
+  <action id="TodoViewGroupByShowModules" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="UpdateRunningApplication" />
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Module" />
+  <action id="UsageGrouping.Package" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
