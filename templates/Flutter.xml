@@ -14,8 +14,10 @@
     <variable name="title" expression="&quot;title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="&quot;dialogBody&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="buttonText" expression="&quot;buttonText&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="txt" value="TextButton.icon(&#10; onPressed: () {&#10; print(&quot;TextButton.icon&quot;);&#10; },&#10; icon: Icon(Icons.local_florist),&#10; label: Text(&quot;TextButton.icon&quot;))," description="Create TextButton.icon Widget" toReformat="true" toShortenFQNames="true">
     <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
