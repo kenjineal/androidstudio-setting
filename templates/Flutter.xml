@@ -190,4 +190,56 @@
     <variable name="body" expression="$body$" defaultValue="Container();" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="pagestart" value="import 'package:flutter/material.dart';&#10;import 'package:flutter/services.dart';&#10;&#10;void main() =&gt; runApp($CLASS_NAME$());&#10;&#10;class $CLASS_NAME$ extends StatelessWidget {&#10;  final SystemUiOverlayStyle _style = SystemUiOverlayStyle(statusBarColor: Colors.transparent);&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    SystemChrome.setSystemUIOverlayStyle(_style);&#10;    return MaterialApp(&#10;      home: $CLASS_NAME$StatefulWidget(),&#10;      theme: ThemeData(primarySwatch: Colors.blue),&#10;    );&#10;  }&#10;}&#10;&#10;class $CLASS_NAME$StatefulWidget extends StatefulWidget {&#10;  @override&#10;  State&lt;StatefulWidget&gt; createState() {&#10;    return _$CLASS_NAME$State();&#10;  }&#10;}&#10;&#10;class _$CLASS_NAME$State extends State&lt;StatefulWidget&gt; {&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;       return Scaffold(&#10;      appBar: AppBar(&#10;        title: Text(&quot;$CLASS_NAME$&quot;),&#10;      ),&#10;      body: Center(&#10;        child: Text(&quot;$CLASS_NAME$&quot;),&#10;      ),&#10;    );&#10;  }&#10;}&#10;" description="Create page with MaterialApp" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="page" value="import 'package:flutter/material.dart';&#10;&#10;class $CLASS_NAME$ extends StatefulWidget {&#10;  @override&#10;  State&lt;StatefulWidget&gt; createState() {&#10;    return _$CLASS_NAME$State();&#10;  }&#10;}&#10;&#10;class _$CLASS_NAME$State extends State&lt;$CLASS_NAME$&gt; {&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;        return Scaffold(&#10;      appBar: AppBar(&#10;        title: Text(&quot;$CLASS_NAME$&quot;),&#10;      ),&#10;      body:Center(&#10;        child: Text(&quot;$CLASS_NAME$&quot;),&#10;      ),&#10;    );&#10;  }&#10;}" description="Create page without MaterialApp" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="stl" value="class $NAME$ extends StatefulWidget {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="Create StatefulWidget Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="stf" value="class $NAME$ extends StatelessWidget {&#10;  @override&#10;  _$NAME$State createState() =&gt; _$NAME$State();&#10;}&#10;&#10;class _$NAME$State extends State&lt;$NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;&#10;" description="Create StatelessWidget Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_falt" value="FlatButton(&#10;onPressed: () {&#10;  print(&quot;FlatButton&quot;);&#10; },&#10;  child: Text(&quot;FlatButton&quot;)),&#10;" description="Create FlatButton Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_falt_icon" value="FlatButton.icon(&#10; onPressed: () {&#10; print(&quot;FlatButton.icon&quot;);&#10; },&#10; icon: Icon(Icons.add),&#10; label: Text(&quot;FlatButton icon&quot;)),&#10;" description="Create FlatButton.icon Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_raised" value="RaisedButton(&#10; child: Text(&quot;RaisedButton&quot;),&#10; onPressed: () {&#10; print(&quot;RaisedButton&quot;);&#10; }),&#10;" description="Create RaisedButton Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_raised_icon" value="RaisedButton.icon(&#10; onPressed: () {&#10; print(&quot;RasiedButton.icon&quot;);&#10; },&#10; icon: Icon(Icons.ac_unit),&#10; label: Text(&quot;RasiedButton.icon&quot;)),&#10;" description="Create RasiedButton.icon Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_outline" value="OutlineButton(&#10; onPressed: () {&#10; print(&quot;OutlineButton&quot;);&#10; },&#10; child: Text(&quot;OutlineButton&quot;),&#10; ),&#10;" description="Create OutlineButton Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_text" value="TextButton(&#10; onPressed: () {&#10; print(&quot;TextButton&quot;);&#10; },&#10; child: Text(&quot;TextButton&quot;))," description="Create TextButton Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_popup" value="Text(&quot;$popupMenuValue&quot;),&#10; PopupMenuButton(&#10; onSelected: (value) {&#10; print(&quot;popup menu button value: $value&quot;);&#10; setState(() {&#10; popupMenuValue = value;&#10; print(&quot;popup menu button value: $value&quot;);&#10; });&#10; },&#10; itemBuilder: (context) =&gt; [&#10; PopupMenuItem(&#10; child: Text(&quot;Item1&quot;),&#10; value: &quot;Item1&quot;,&#10; ),&#10; PopupMenuItem(&#10; child: Text(&quot;Item2&quot;),&#10; value: &quot;Item2&quot;,&#10; ),&#10; PopupMenuItem(&#10; child: Text(&quot;Item3&quot;),&#10; value: &quot;Item3&quot;,&#10; )&#10; ]),&#10;" description="Create PopupMenuButton Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_dropdown" value="           DropdownButton(&#10; value: dropdownValue,&#10; items: [&#10; DropdownMenuItem(&#10; child: Text('北京'),&#10; value: &quot;北京&quot;,&#10; ),&#10; DropdownMenuItem(&#10; child: Text('天津'),&#10; value: &quot;天津&quot;,&#10; ),&#10; DropdownMenuItem(&#10; child: Text('河北'),&#10; value: &quot;河北&quot;,&#10; )&#10; ],&#10; onChanged: (value) {&#10; setState(() {&#10; dropdownValue = value;&#10; });&#10; }),&#10; " description="Create DropdownButton Widget" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="btn_icon" value="IconButton(icon: Icon(Icons.add_circle_sharp), onPressed: (){&#10; print(&quot;IconButton&quot;);&#10; })," description="Create IconButton Widget" toReformat="true" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
