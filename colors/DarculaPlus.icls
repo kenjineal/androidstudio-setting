@@ -1,0 +1,31 @@
+<scheme name="DarculaPlus" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-12-03T17:02:39</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.2.1.0</property>
+    <property name="modified">2021-10-10T18:15:20</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <attributes>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="babb33" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="27bb00" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="47b5bb" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
