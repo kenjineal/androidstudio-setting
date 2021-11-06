@@ -7,6 +7,7 @@
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="setup" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
+      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
       <mapping pattern="home_controller" type="AUTO_DETECTED" />
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
       <mapping pattern="aaaabb" type="AUTO_DETECTED" />
@@ -19,8 +20,8 @@
       <mapping pattern="SkillEntity" type="PLAIN_TEXT" />
       <mapping pattern="already_map_key" type="PLAIN_TEXT" />
       <mapping pattern="ggwp" type="PLAIN_TEXT" />
-      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="ss2" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="testk" type="PLAIN_TEXT" />
