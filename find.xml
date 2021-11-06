@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -11,9 +13,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>styles.xml</mask>
-    <mask>*.kt</mask>
-    <mask>*.apk</mask>
-    <mask>*.aar</mask>
+    <mask>*.jar</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
