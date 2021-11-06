@@ -1,23 +1,25 @@
 <templateSet group="Flutter">
-  <template name="stless" value="import 'package:flutter/cupertino.dart';&#10;import 'package:flutter/material.dart';&#10;&#10;class $NAME$ extends StatelessWidget {&#10;  const $NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Scaffold(&#10;      body: Container(&#10;        $END$&#10;      ),&#10;    );&#10;  }&#10;}&#10;" description="New Stateless widget" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+  <template name="uch" value="$VAR$.check(&#10;    success: (data) {&#10;        $END$&#10;    },&#10;    error: (ex) {&#10;        &#10;    },&#10;);" description="check UseCaseResult" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
   </template>
-  <template name="stful" value="import 'package:flutter/cupertino.dart';&#10;import 'package:flutter/material.dart';&#10;&#10;class $NAME$ extends StatefulWidget {&#10;  const $NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  $SNAME$ createState() =&gt; $SNAME$();&#10;}&#10;&#10;class $SNAME$ extends State&lt;$NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Scaffold(&#10;      body: Container(&#10;        $END$&#10;      ),&#10;    );&#10;  }&#10;}&#10;" description="New Stateful widget" toReformat="false" toShortenFQNames="true">
+  <template name="stful" value="import 'package:flutter/material.dart';&#10;&#10;class $NAME$ extends StatefulWidget {&#10;  const $NAME$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  $SNAME$ createState() =&gt; $SNAME$();&#10;}&#10;&#10;class $SNAME$ extends State&lt;$NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Scaffold(&#10;      body: Container(),&#10;    );&#10;  }&#10;}&#10;" description="New Stateful widget" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SNAME" expression="regularExpression(concat(&quot;_&quot;, NAME, &quot;State&quot;), &quot;^__&quot;, &quot;_&quot;)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="showDialog" value="showDialog&lt;void&gt;(&#10;context: $context$,&#10;barrierDismissible: $dismiss$, // false = user must tap button, true = tap outside dialog&#10;builder: (BuildContext dialogContext){&#10;return AlertDialog(&#10;title: Text('$title$'),&#10;content: Text('$content$'),&#10;actions: &lt;Widget&gt;[&#10;FlatButton(&#10;child: Text('$buttonText$'),&#10;onPressed: () {&#10;Navigator.of(dialogContext).pop(); // Dismiss alert dialog&#10;},&#10;),&#10;],&#10;);&#10;},&#10;);" description="New AlertDialog" toReformat="true" toShortenFQNames="true">
-    <variable name="context" expression="&quot;context&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="dismiss" expression="&quot;barrierDismissible&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="title" expression="&quot;title&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="content" expression="&quot;dialogBody&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="buttonText" expression="&quot;buttonText&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
+  <template name="jmodel" value="import 'package:json_annotation/json_annotation.dart';&#10;&#10;part '$NAME$.g.dart';&#10;&#10;@JsonSerializable()&#10;class $NAME$ {&#10;&#10;  factory $NAME$.fromJson(Map&lt;String, dynamic&gt; json) =&gt; _$$$NAME$FromJson(json);&#10;&#10;  Map&lt;String, dynamic&gt; toJson() =&gt; _$$$NAME$ToJson(this);&#10;}&#10;" description="New json model" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
   </template>
-  <template name="txt" value="TextButton.icon(&#10; onPressed: () {&#10; print(&quot;TextButton.icon&quot;);&#10; },&#10; icon: Icon(Icons.local_florist),&#10; label: Text(&quot;TextButton.icon&quot;))," description="Create TextButton.icon Widget" toReformat="true" toShortenFQNames="true">
-    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
+  <template name="retrofit" value="import 'package:dio/dio.dart';&#10;import 'package:injectable/injectable.dart';&#10;import 'package:retrofit/http.dart';&#10;&#10;part '$NAME$.g.dart';&#10;&#10;@injectable&#10;@RestApi(baseUrl: &quot;$END$&quot;)&#10;abstract class $NAME$ {&#10;  @factoryMethod&#10;  factory $NAME$() {&#10;    final dio = Dio();&#10;    return _$NAME$(dio);&#10;  }&#10;}&#10;" description="Create Retrofit Service" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
   </template>
 </templateSet>
