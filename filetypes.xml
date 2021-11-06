@@ -3,8 +3,12 @@
     <extensionMap>
       <mapping pattern="bloc_provider" type="AUTO_DETECTED" />
       <mapping pattern="main_mission" type="AUTO_DETECTED" />
+      <mapping pattern="build_apk" type="AUTO_DETECTED" />
+      <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping pattern="setup" type="AUTO_DETECTED" />
       <mapping pattern="home_controller" type="AUTO_DETECTED" />
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
+      <mapping pattern="aaaabb" type="AUTO_DETECTED" />
       <mapping ext="db" type="Android Room SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
