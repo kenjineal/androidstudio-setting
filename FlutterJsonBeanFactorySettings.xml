@@ -1,6 +1,0 @@
-<application>
-  <component name="FlutterJsonBeanFactorySettings">
-    <option name="openNullAble" value="true" />
-    <option name="openNullSafety" value="true" />
-  </component>
-</application>
