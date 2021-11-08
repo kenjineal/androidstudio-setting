@@ -5,12 +5,12 @@
       <mapping pattern="build_apk" type="AUTO_DETECTED" />
       <mapping pattern="setup" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
-      <mapping pattern="home_controller" type="AUTO_DETECTED" />
       <mapping pattern="provider_paths" type="AUTO_DETECTED" />
+      <mapping pattern="home_controller" type="AUTO_DETECTED" />
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
-      <mapping pattern="xo_game" type="AUTO_DETECTED" />
       <mapping pattern="main_mission" type="AUTO_DETECTED" />
+      <mapping pattern="xo_game" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="aaaabb" type="AUTO_DETECTED" />
       <mapping ext="db" type="Android Room SQL" />
