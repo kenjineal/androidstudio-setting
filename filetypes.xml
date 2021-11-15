@@ -11,6 +11,7 @@
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
+      <mapping pattern="fetch" type="AUTO_DETECTED" />
       <mapping pattern="xo_game" type="AUTO_DETECTED" />
       <mapping pattern="main_mission" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
