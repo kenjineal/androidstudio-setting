@@ -8,6 +8,9 @@
     <variable name="SNAME" expression="regularExpression(concat(&quot;_&quot;, NAME, &quot;State&quot;), &quot;^__&quot;, &quot;_&quot;)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="dis" value="@override&#10;void dispose() { &#10;  // Add code before the super&#10;  super.dispose();&#10;}" description="Add dispose Override" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="build" value="@override &#10; Widget build(BuildContext context) { &#10; return $body$; &#10;}&#10;" description="No Such Method" toReformat="true" toShortenFQNames="true">
     <variable name="body" expression="$body$" defaultValue="" alwaysStopAt="true" />
     <context />
