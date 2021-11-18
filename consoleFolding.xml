@@ -20,6 +20,7 @@
         <option value="E/SELinux:" />
         <option value="E/servicemanager: Could not find android.hardware.power.IPower/default" />
         <option value="E: avc:  denied  { find }" />
+        <option value="E: failed to connect to socket" />
         <option value="E: Failed to open QEMU pipe" />
         <option value="E: RemoteConnection failed" />
         <option value="gnssSvStatusCb" />
@@ -33,7 +34,7 @@
         <option value="W: A resource failed to call release." />
         <option value="W: Can't find service car_service" />
         <option value="W: No service published" />
-        <option value="E: failed to connect to socket" />
+        <option value="I/ViewRootImpl" />
       </list>
     </option>
   </component>
