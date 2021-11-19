@@ -8,12 +8,4 @@
     <variable name="SNAME" expression="regularExpression(concat(&quot;_&quot;, NAME, &quot;State&quot;), &quot;^__&quot;, &quot;_&quot;)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
-  <template name="layoutBldr" value="LayoutBuilder(&#10;builder: (BuildContext context, BoxConstraints constraints) {&#10;return $widget$;&#10;},&#10;)," description="New LayoutBuilder" toReformat="true" toShortenFQNames="true">
-    <variable name="widget" expression="&quot;widget&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="stf" value="class $NAME$ extends StatelessWidget {&#10;  @override&#10;  _$NAME$State createState() =&gt; _$NAME$State();&#10;}&#10;&#10;class _$NAME$State extends State&lt;$NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;&#10;" description="Create StatelessWidget Widget" toReformat="true" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
