@@ -6,6 +6,7 @@
       <mapping pattern="setup" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
       <mapping pattern="additional_argument" type="AUTO_DETECTED" />
+      <mapping pattern="release" type="AUTO_DETECTED" />
       <mapping pattern="home_controller" type="AUTO_DETECTED" />
       <mapping pattern="provider_paths" type="AUTO_DETECTED" />
       <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
