@@ -68,7 +68,7 @@
       <option name="DART_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="impl" value="abstract class $NAME$ {&#10;&#10;}&#10;&#10;class $NAME$Impl implements $NAME$ {&#10;  $END$&#10;}&#10;" description="Create Implement class" toReformat="false" toShortenFQNames="true">
+  <template name="impl" value="import 'package:injectable/injectable.dart';&#10;&#10;abstract class $NAME$ {&#10;&#10;}&#10;&#10;@Injectable(as: $NAME$)&#10;class $NAME$Impl implements $NAME$ {&#10;  $END$&#10;}&#10;" description="Create Implement class" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART_TOPLEVEL" value="true" />
