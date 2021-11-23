@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="6f57b20b-5330-44cc-86c0-e55a3e5f27bc" name="pattaravitappsynth">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
