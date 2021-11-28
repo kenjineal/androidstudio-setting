@@ -13,6 +13,10 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoSymbol" />
   <action id="IntroduceParameter" />
   <action id="OptimizeImports">
@@ -23,6 +27,7 @@
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
