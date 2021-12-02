@@ -8,4 +8,9 @@
     <variable name="SNAME" expression="regularExpression(concat(&quot;_&quot;, NAME, &quot;State&quot;), &quot;^__&quot;, &quot;_&quot;)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="subj" value="Stream&lt;$type$&gt; get name =&gt; _$nameSubject$.stream; &#10;  final _$nameSubject$ = BehaviorSubject&lt;$type$&gt;();" description="Add BehaviorSubject" toReformat="true" toShortenFQNames="true">
+    <variable name="type" expression="$type$" defaultValue="" alwaysStopAt="true" />
+    <variable name="nameSubject" expression="$nameSubject$" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
