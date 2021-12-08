@@ -8,4 +8,7 @@
     <variable name="SNAME" expression="regularExpression(concat(&quot;_&quot;, NAME, &quot;State&quot;), &quot;^__&quot;, &quot;_&quot;)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="initS" value="@override&#10;void initState() { &#10;  super.initState();&#10;  // Add code after super&#10;}" description="Add initState Override" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
