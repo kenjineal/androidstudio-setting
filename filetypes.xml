@@ -8,11 +8,11 @@
       <mapping pattern="clean" type="AUTO_DETECTED" />
       <mapping pattern="additional_argument" type="AUTO_DETECTED" />
       <mapping pattern="build_web" type="AUTO_DETECTED" />
-      <mapping pattern="release" type="AUTO_DETECTED" />
-      <mapping pattern="home_controller" type="AUTO_DETECTED" />
-      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
-      <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
+      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
+      <mapping pattern="home_controller" type="AUTO_DETECTED" />
+      <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
+      <mapping pattern="release" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
@@ -31,6 +31,7 @@
       <mapping pattern="already_map_key" type="PLAIN_TEXT" />
       <mapping pattern="ggwp" type="PLAIN_TEXT" />
       <mapping pattern="ss2" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="update_script" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="feed/root.json" type="PLAIN_TEXT" />
