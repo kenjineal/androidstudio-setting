@@ -74,7 +74,7 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="sealed" value="import 'package:freezed_annotation/freezed_annotation.dart';&#10;&#10;part '$NAME_SNAKE_CASE$.freezed.dart';&#10;&#10;@freezed&#10;class $NAME$&lt;T&gt; with _$$NAME$&lt;T&gt; {&#10;  $NAME$._();&#10;&#10;  factory $NAME$.success(T data) = _Success&lt;T&gt;;&#10;&#10;  factory $NAME$.error(error) = _Error&lt;T&gt;;&#10;}&#10;&#10;" description="Create Sealed" toReformat="false" toShortenFQNames="true">
+  <template name="sealed" value="import 'package:freezed_annotation/freezed_annotation.dart';&#10;&#10;part '$NAME_SNAKE_CASE$.freezed.dart';&#10;&#10;@freezed&#10;class $NAME$&lt;T&gt; with _$$$NAME$&lt;T&gt; {&#10;  $NAME$._();&#10;&#10;  factory $NAME$.success(T data) = _Success&lt;T&gt;;&#10;&#10;  factory $NAME$.error(error) = _Error&lt;T&gt;;&#10;}&#10;&#10;" description="Create Sealed" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME_SNAKE_CASE" expression="" defaultValue="snakeCase(NAME)" alwaysStopAt="false" />
     <context>
