@@ -31,11 +31,11 @@
         <option value="I/okhttp_plus: expect-ct:" />
         <option value="I/ViewRootImpl" />
         <option value="The system cannot find the batch label specified - after_subroutine" />
+        <option value="W/FirebaseRemoteConfig(" />
         <option value="W: A resource failed to call" />
         <option value="W: A resource failed to call release." />
         <option value="W: Can't find service car_service" />
         <option value="W: No service published" />
-        <option value="W/FirebaseRemoteConfig(" />
       </list>
     </option>
   </component>
