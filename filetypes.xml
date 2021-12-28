@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="add" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
       <mapping pattern="bloc_provider" type="AUTO_DETECTED" />
       <mapping pattern="build_apk" type="AUTO_DETECTED" />
@@ -8,11 +9,11 @@
       <mapping pattern="clean" type="AUTO_DETECTED" />
       <mapping pattern="additional_argument" type="AUTO_DETECTED" />
       <mapping pattern="build_web" type="AUTO_DETECTED" />
-      <mapping pattern="release" type="AUTO_DETECTED" />
-      <mapping pattern="home_controller" type="AUTO_DETECTED" />
-      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
-      <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
+      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
+      <mapping pattern="home_controller" type="AUTO_DETECTED" />
+      <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
+      <mapping pattern="release" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
