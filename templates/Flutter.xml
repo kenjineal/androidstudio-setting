@@ -8,4 +8,45 @@
     <variable name="SNAME" expression="regularExpression(concat(&quot;_&quot;, NAME, &quot;State&quot;), &quot;^__&quot;, &quot;_&quot;)" defaultValue="" alwaysStopAt="false" />
     <context />
   </template>
+  <template name="paddingall" value="const EdgeInsets.all($VAL$)," description="Padding All" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="paddingonly" value="const EdgeInsets.only(left: $VAL1$,top: $VAL2$,right: $VAL3$,bottom: $VAL4$,)," description="Padding Only" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="paddingv" value="const EdgeInsets.symmetric(vertical: $VAL$), " description="Padding Vertical" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="paddingh" value="const EdgeInsets.symmetric(horizontal: $VAL$), " description="Padding Horizontal" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="paddinghv" value="const EdgeInsets.symmetric(horizontal: $VAL2$, vertical: $VAL1$),  " description="Padding Horizontal + Vertical" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="paddingvh" value="const EdgeInsets.symmetric(vertical: $VAL1$, horizontal: $VAL2$)," description="Padding Vertical + Horizontal" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAL2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
