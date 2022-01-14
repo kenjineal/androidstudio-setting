@@ -81,4 +81,24 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="whenusecase" value="when(success: (event) {&#10;  $END$&#10;}, error: (error) {&#10;  &#10;});" description="UseCase when" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="mapusecase" value="map(success: (result){&#10;  final event = result.data;&#10;  $END$&#10;  return ;&#10;}, error: (result){&#10;  final error = result.error;&#10;  &#10;  return ;&#10;});" description="UseCase map" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="behaviorsubject" value="final BehaviorSubject&lt;$VAR$&gt; $END$ = BehaviorSubject();" description="New BehaviorSubject" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="DART_STATEMENT" value="false" />
+      <option name="DART_TOPLEVEL" value="false" />
+    </context>
+  </template>
 </templateSet>
