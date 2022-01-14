@@ -49,4 +49,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="sgen" value="import 'package:suraking/generated/l10n.dart';" description="S gen" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -45,11 +45,6 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="contextx" value="import 'package:suraking/core/helper/context_extension.dart';" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="DART_TOPLEVEL" value="true" />
-    </context>
-  </template>
   <template name="nulll" value="if ($VAR$ == null) return $END$;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
