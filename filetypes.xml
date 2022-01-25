@@ -2,20 +2,21 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="get" type="AUTO_DETECTED" />
-      <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
       <mapping pattern="add" type="AUTO_DETECTED" />
+      <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
       <mapping pattern="bloc_provider" type="AUTO_DETECTED" />
       <mapping pattern="build_apk" type="AUTO_DETECTED" />
-      <mapping pattern="lang" type="AUTO_DETECTED" />
+      <mapping pattern="additional_argument" type="AUTO_DETECTED" />
       <mapping pattern="setup" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
-      <mapping pattern="additional_argument" type="AUTO_DETECTED" />
+      <mapping pattern="lang" type="AUTO_DETECTED" />
       <mapping pattern="build_web" type="AUTO_DETECTED" />
-      <mapping pattern="release" type="AUTO_DETECTED" />
-      <mapping pattern="home_controller" type="AUTO_DETECTED" />
-      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
-      <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
+      <mapping pattern="SteamingPlayerSeekBarView" type="AUTO_DETECTED" />
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
+      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
+      <mapping pattern="home_controller" type="AUTO_DETECTED" />
+      <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
+      <mapping pattern="release" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
@@ -40,8 +41,8 @@
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="feed/root.json" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="testk" type="PLAIN_TEXT" />
       <mapping pattern="1037" type="PLAIN_TEXT" />
