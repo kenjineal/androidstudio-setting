@@ -22,6 +22,7 @@
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
+      <mapping pattern="check" type="AUTO_DETECTED" />
       <mapping pattern="fetch" type="AUTO_DETECTED" />
       <mapping pattern="main_mission" type="AUTO_DETECTED" />
       <mapping pattern="xo_game" type="AUTO_DETECTED" />
