@@ -34,8 +34,12 @@
         <option value="W/FirebaseRemoteConfig(" />
         <option value="W: A resource failed to call" />
         <option value="W: A resource failed to call release." />
+        <option value="W: Bad response received for https://api2.appsflyer.com/inappevent/com.tdcm.trueidapp.preprod: 403" />
         <option value="W: Can't find service car_service" />
+        <option value="W: Error Message: Forbidden" />
+        <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
+        <option value="W: validate: layer" />
       </list>
     </option>
   </component>
