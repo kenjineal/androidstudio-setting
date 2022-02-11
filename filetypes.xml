@@ -33,6 +33,7 @@
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="list_extension" type="AUTO_DETECTED" />
       <mapping pattern="aaaabb" type="AUTO_DETECTED" />
+      <mapping pattern="GetTvsMovieMyListShelfContentUseCase" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="db" type="Android Room SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
