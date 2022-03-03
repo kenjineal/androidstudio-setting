@@ -81,6 +81,12 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ClassRenderer">
+      <option name="SHOW_DECLARED_TYPE" value="true" />
+      <option name="SHOW_STRINGS_TYPE" value="true" />
+    </Renderer>
+  </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_SOURCE_NAME" value="true" />
     <option name="SHOW_SYNTHETIC_FRAMES" value="false" />
