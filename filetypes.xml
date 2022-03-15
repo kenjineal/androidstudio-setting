@@ -1,60 +1,61 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="test" type="AUTO_DETECTED" />
-      <mapping pattern="get" type="AUTO_DETECTED" />
       <mapping pattern="fetch_localize" type="AUTO_DETECTED" />
-      <mapping pattern="smallcheck" type="AUTO_DETECTED" />
       <mapping pattern="add" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
+      <mapping pattern="check_env" type="AUTO_DETECTED" />
       <mapping pattern="ห" type="AUTO_DETECTED" />
       <mapping pattern="bloc_provider" type="AUTO_DETECTED" />
       <mapping pattern="tt" type="AUTO_DETECTED" />
       <mapping pattern="build_apk" type="AUTO_DETECTED" />
       <mapping pattern="gg" type="AUTO_DETECTED" />
-      <mapping pattern="lint" type="AUTO_DETECTED" />
-      <mapping pattern="setup" type="AUTO_DETECTED" />
       <mapping pattern="additional_argument" type="AUTO_DETECTED" />
-      <mapping pattern="clean" type="AUTO_DETECTED" />
-      <mapping pattern="lang" type="AUTO_DETECTED" />
-      <mapping pattern="additional_args" type="AUTO_DETECTED" />
       <mapping pattern="build_web" type="AUTO_DETECTED" />
-      <mapping pattern="SteamingPlayerSeekBarView" type="AUTO_DETECTED" />
       <mapping pattern="home_navigationable" type="AUTO_DETECTED" />
-      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
       <mapping pattern="home_controller" type="AUTO_DETECTED" />
+      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
       <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
-      <mapping pattern="release" type="AUTO_DETECTED" />
+      <mapping pattern="additional_args" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
-      <mapping pattern="TvsClearCacheSourceUseCase" type="AUTO_DETECTED" />
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
-      <mapping pattern="fetch" type="AUTO_DETECTED" />
       <mapping pattern="updateBaseLine" type="AUTO_DETECTED" />
-      <mapping pattern="main_mission" type="AUTO_DETECTED" />
-      <mapping pattern="xo_game" type="AUTO_DETECTED" />
       <mapping pattern="check" type="AUTO_DETECTED" />
       <mapping pattern="cleant" type="AUTO_DETECTED" />
-      <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="list_extension" type="AUTO_DETECTED" />
-      <mapping pattern="aaaabb" type="AUTO_DETECTED" />
       <mapping pattern="GetTvsMovieMyListShelfContentUseCase" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="get" type="AUTO_DETECTED" />
+      <mapping pattern="smallcheck" type="AUTO_DETECTED" />
+      <mapping pattern="lint" type="AUTO_DETECTED" />
+      <mapping pattern="setup" type="AUTO_DETECTED" />
+      <mapping pattern="clean" type="AUTO_DETECTED" />
+      <mapping pattern="lang" type="AUTO_DETECTED" />
+      <mapping pattern="SteamingPlayerSeekBarView" type="AUTO_DETECTED" />
+      <mapping pattern="release" type="AUTO_DETECTED" />
+      <mapping pattern="TvsClearCacheSourceUseCase" type="AUTO_DETECTED" />
+      <mapping pattern="fetch" type="AUTO_DETECTED" />
+      <mapping pattern="xo_game" type="AUTO_DETECTED" />
+      <mapping pattern="main_mission" type="AUTO_DETECTED" />
+      <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping pattern="aaaabb" type="AUTO_DETECTED" />
       <mapping ext="db" type="Android Room SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="SkillEntity" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="already_map_key" type="PLAIN_TEXT" />
-      <mapping pattern="ggwp" type="PLAIN_TEXT" />
       <mapping pattern="ss2" type="PLAIN_TEXT" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="update_script" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
-      <mapping pattern="feed/root.json" type="PLAIN_TEXT" />
-      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
+      <mapping pattern="already_map_key" type="PLAIN_TEXT" />
+      <mapping pattern="ggwp" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern="feed/root.json" type="PLAIN_TEXT" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
       <mapping pattern="testk" type="PLAIN_TEXT" />
