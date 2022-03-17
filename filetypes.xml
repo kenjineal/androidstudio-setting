@@ -5,6 +5,7 @@
       <mapping pattern="check_env" type="AUTO_DETECTED" />
       <mapping pattern="add" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
+      <mapping pattern="gen_splash" type="AUTO_DETECTED" />
       <mapping pattern="ห" type="AUTO_DETECTED" />
       <mapping pattern="bloc_provider" type="AUTO_DETECTED" />
       <mapping pattern="tt" type="AUTO_DETECTED" />
