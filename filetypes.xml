@@ -22,14 +22,14 @@
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="updateBaseLine" type="AUTO_DETECTED" />
-      <mapping pattern="check" type="AUTO_DETECTED" />
       <mapping pattern="cleant" type="AUTO_DETECTED" />
+      <mapping pattern="check" type="AUTO_DETECTED" />
       <mapping pattern="list_extension" type="AUTO_DETECTED" />
       <mapping pattern="GetTvsMovieMyListShelfContentUseCase" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
-      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="get" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="smallcheck" type="AUTO_DETECTED" />
       <mapping pattern="lint" type="AUTO_DETECTED" />
       <mapping pattern="setup" type="AUTO_DETECTED" />

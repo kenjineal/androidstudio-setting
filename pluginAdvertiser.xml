@@ -132,6 +132,11 @@
                       <FeaturePluginData displayName="Gauge Execution" pluginName="Gauge" pluginId="com.thoughtworks.gauge" />
                     </value>
                   </entry>
+                  <entry key="org.moe.idea.runconfig.configuration.MOERunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Multi-OS Engine iOS Application" pluginName="Multi-OS Engine Community Edition" pluginId="org.moe.community" />
+                    </value>
+                  </entry>
                 </map>
               </option>
             </FeaturePluginsList>
