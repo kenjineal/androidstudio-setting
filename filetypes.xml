@@ -31,6 +31,7 @@
       <mapping pattern="get" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="smallcheck" type="AUTO_DETECTED" />
+      <mapping pattern="google_sheet_member_response" type="AUTO_DETECTED" />
       <mapping pattern="lint" type="AUTO_DETECTED" />
       <mapping pattern="setup" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
