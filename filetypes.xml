@@ -38,6 +38,7 @@
       <mapping pattern="lang" type="AUTO_DETECTED" />
       <mapping pattern="SteamingPlayerSeekBarView" type="AUTO_DETECTED" />
       <mapping pattern="release" type="AUTO_DETECTED" />
+      <mapping pattern="update_test" type="AUTO_DETECTED" />
       <mapping pattern="TvsClearCacheSourceUseCase" type="AUTO_DETECTED" />
       <mapping pattern="fetch" type="AUTO_DETECTED" />
       <mapping pattern="xo_game" type="AUTO_DETECTED" />
