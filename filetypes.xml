@@ -21,6 +21,7 @@
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
+      <mapping pattern="prepare-commit-msg-local" type="AUTO_DETECTED" />
       <mapping pattern="updateBaseLine" type="AUTO_DETECTED" />
       <mapping pattern="cleant" type="AUTO_DETECTED" />
       <mapping pattern="check" type="AUTO_DETECTED" />
