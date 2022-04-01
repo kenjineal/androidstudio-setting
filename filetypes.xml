@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="fetch_localize" type="AUTO_DETECTED" />
+      <mapping pattern="local-prepare-commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="check_env" type="AUTO_DETECTED" />
       <mapping pattern="add" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
