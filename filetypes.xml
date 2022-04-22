@@ -4,6 +4,7 @@
       <mapping pattern="prepare-push" type="AUTO_DETECTED" />
       <mapping pattern="fetch_localize" type="AUTO_DETECTED" />
       <mapping pattern="local-prepare-commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="coverage_ignored" type="AUTO_DETECTED" />
       <mapping pattern="check_env" type="AUTO_DETECTED" />
       <mapping pattern="add" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
@@ -25,14 +26,14 @@
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit-msg-local" type="AUTO_DETECTED" />
       <mapping pattern="updateBaseLine" type="AUTO_DETECTED" />
-      <mapping pattern="cleant" type="AUTO_DETECTED" />
       <mapping pattern="check" type="AUTO_DETECTED" />
+      <mapping pattern="cleant" type="AUTO_DETECTED" />
       <mapping pattern="list_extension" type="AUTO_DETECTED" />
       <mapping pattern="GetTvsMovieMyListShelfContentUseCase" type="AUTO_DETECTED" />
       <mapping pattern="prepare-commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
-      <mapping pattern="get" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="get" type="AUTO_DETECTED" />
       <mapping pattern="smallcheck" type="AUTO_DETECTED" />
       <mapping pattern="local-prepare-push" type="AUTO_DETECTED" />
       <mapping pattern="google_sheet_member_response" type="AUTO_DETECTED" />
