@@ -5,6 +5,7 @@
       <mapping pattern="fetch_localize" type="AUTO_DETECTED" />
       <mapping pattern="local-prepare-commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="coverage_ignored" type="AUTO_DETECTED" />
+      <mapping pattern="result" type="AUTO_DETECTED" />
       <mapping pattern="check_env" type="AUTO_DETECTED" />
       <mapping pattern="add" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
