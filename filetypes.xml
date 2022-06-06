@@ -48,6 +48,7 @@
       <mapping pattern="release" type="AUTO_DETECTED" />
       <mapping pattern="update_test" type="AUTO_DETECTED" />
       <mapping pattern="local=prepare-push" type="AUTO_DETECTED" />
+      <mapping pattern="deploy_web" type="AUTO_DETECTED" />
       <mapping pattern="TvsClearCacheSourceUseCase" type="AUTO_DETECTED" />
       <mapping pattern="prod" type="AUTO_DETECTED" />
       <mapping pattern="prodaab" type="AUTO_DETECTED" />
