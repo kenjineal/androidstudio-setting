@@ -61,6 +61,7 @@
       <mapping ext="db" type="Android Room SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="SkillEntity" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="ss2" type="PLAIN_TEXT" />
