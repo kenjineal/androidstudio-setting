@@ -56,6 +56,7 @@
       <mapping pattern="xo_game" type="AUTO_DETECTED" />
       <mapping pattern="main_mission" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping pattern="bg_splash_screen" type="AUTO_DETECTED" />
       <mapping pattern="ttt" type="AUTO_DETECTED" />
       <mapping pattern="aaaabb" type="AUTO_DETECTED" />
       <mapping pattern="coverage" type="AUTO_DETECTED" />
