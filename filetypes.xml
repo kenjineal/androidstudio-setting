@@ -18,18 +18,18 @@
       <mapping pattern="additional_argument" type="AUTO_DETECTED" />
       <mapping pattern="build_web" type="AUTO_DETECTED" />
       <mapping pattern="home_navigationable" type="AUTO_DETECTED" />
-      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
       <mapping pattern="home_controller" type="AUTO_DETECTED" />
+      <mapping pattern="provider_paths" type="AUTO_DETECTED" />
       <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
       <mapping pattern="additional_args" type="AUTO_DETECTED" />
       <mapping pattern="jsonx" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
       <mapping pattern="release_web" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
-      <mapping pattern="prepare-commit-msg-local" type="AUTO_DETECTED" />
       <mapping pattern="updateBaseLine" type="AUTO_DETECTED" />
-      <mapping pattern="cleant" type="AUTO_DETECTED" />
+      <mapping pattern="prepare-commit-msg-local" type="AUTO_DETECTED" />
       <mapping pattern="check" type="AUTO_DETECTED" />
+      <mapping pattern="cleant" type="AUTO_DETECTED" />
       <mapping pattern="ignore_coverage" type="AUTO_DETECTED" />
       <mapping pattern="list_extension" type="AUTO_DETECTED" />
       <mapping pattern="GetTvsMovieMyListShelfContentUseCase" type="AUTO_DETECTED" />
