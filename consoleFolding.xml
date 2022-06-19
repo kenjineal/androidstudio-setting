@@ -30,6 +30,8 @@
         <option value="I/netd: trafficSwapActiveStatsMap()" />
         <option value="I/okhttp_plus: expect-ct:" />
         <option value="I/ViewRootImpl" />
+        <option value="SchedulerBinding.instance" />
+        <option value="SchedulerBinding.instance!" />
         <option value="The system cannot find the batch label specified - after_subroutine" />
         <option value="W/FirebaseRemoteConfig(" />
         <option value="W: A resource failed to call" />
@@ -40,7 +42,6 @@
         <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
         <option value="W: validate: layer" />
-        <option value="../../../.pub-cache/hosted/pub.dartlang.org/" />
       </list>
     </option>
   </component>
