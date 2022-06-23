@@ -35,6 +35,18 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.41:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-23T10:17:35.682662Z" />
+        <name value="samsung SM-N960F" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
