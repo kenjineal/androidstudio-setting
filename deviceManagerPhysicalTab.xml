@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.41:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-06-23T15:43:08.369115Z" />
+        <name value="samsung SM-N960F" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="254a98c4f20d7ece" />
           </Key>
         </key>
@@ -31,18 +43,6 @@
             <value value="192.168.1.105:5555" />
           </Key>
         </key>
-        <name value="samsung SM-N960F" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.41:5555" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-06-23T10:17:35.682662Z" />
         <name value="samsung SM-N960F" />
         <target value="Android 10.0" />
         <api value="29" />
