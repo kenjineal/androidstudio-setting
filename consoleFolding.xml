@@ -42,6 +42,7 @@
         <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
         <option value="W: validate: layer" />
+        <option value="system_process W/InputReader: Device virtio_input_multi_touch_" />
       </list>
     </option>
   </component>
