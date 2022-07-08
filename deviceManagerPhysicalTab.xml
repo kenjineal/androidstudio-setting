@@ -16,6 +16,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.35:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-07-08T08:22:35.795330Z" />
+        <name value="samsung SM-T865" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.41:5555" />
           </Key>
         </key>
