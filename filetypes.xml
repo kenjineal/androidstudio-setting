@@ -44,6 +44,7 @@
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="smallcheck" type="AUTO_DETECTED" />
       <mapping pattern="prod" type="AUTO_DETECTED" />
+      <mapping pattern="Lib" type="AUTO_DETECTED" />
       <mapping pattern="deploy_web" type="AUTO_DETECTED" />
       <mapping pattern="fetch_localize" type="AUTO_DETECTED" />
       <mapping pattern="clean" type="AUTO_DETECTED" />
