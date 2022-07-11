@@ -19,7 +19,6 @@
             <value value="192.168.1.35:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-07-08T08:22:35.795330Z" />
         <name value="samsung SM-T865" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -31,7 +30,6 @@
             <value value="192.168.1.41:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-25T07:51:12.733766Z" />
         <name value="samsung SM-N960F" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -43,7 +41,6 @@
             <value value="192.168.1.106:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-24T03:54:04.440304Z" />
         <name value="samsung SM-N960F" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -69,6 +66,17 @@
         <name value="samsung SM-G9550" />
         <target value="Android 7.1.1" />
         <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R52M8114B1N" />
+          </Key>
+        </key>
+        <name value="samsung SM-T865" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
