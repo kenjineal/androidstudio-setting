@@ -20,6 +20,7 @@
       <mapping pattern="list_extension" type="AUTO_DETECTED" />
       <mapping pattern="GetTvsMovieMyListShelfContentUseCase" type="AUTO_DETECTED" />
       <mapping pattern="main_mission" type="AUTO_DETECTED" />
+      <mapping pattern="        SampleActivity" type="AUTO_DETECTED" />
       <mapping pattern="ห" type="AUTO_DETECTED" />
       <mapping pattern="check" type="AUTO_DETECTED" />
       <mapping pattern="coverage_ignored" type="AUTO_DETECTED" />
