@@ -32,6 +32,7 @@
         <option value="I/ViewRootImpl" />
         <option value="SchedulerBinding.instance" />
         <option value="SchedulerBinding.instance!" />
+        <option value="system_process W/InputReader: Device virtio_input_multi_touch_" />
         <option value="The system cannot find the batch label specified - after_subroutine" />
         <option value="W/FirebaseRemoteConfig(" />
         <option value="W: A resource failed to call" />
@@ -42,7 +43,7 @@
         <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
         <option value="W: validate: layer" />
-        <option value="system_process W/InputReader: Device virtio_input_multi_touch_" />
+        <option value="W/art: Attempt to remove non-JNI local reference, dumping thread" />
       </list>
     </option>
   </component>
