@@ -33,6 +33,7 @@
       <mapping pattern="fetch_only_lang" type="AUTO_DETECTED" />
       <mapping pattern="build_apk" type="AUTO_DETECTED" />
       <mapping pattern="local-prepare-commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="check_diff" type="AUTO_DETECTED" />
       <mapping pattern="result" type="AUTO_DETECTED" />
       <mapping pattern="get" type="AUTO_DETECTED" />
       <mapping pattern="cleant" type="AUTO_DETECTED" />
