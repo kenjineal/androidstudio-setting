@@ -6,6 +6,7 @@
       <mapping pattern="TvsClearCacheSourceUseCase" type="AUTO_DETECTED" />
       <mapping pattern="release" type="AUTO_DETECTED" />
       <mapping pattern="prodaab" type="AUTO_DETECTED" />
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="aaaabb" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
       <mapping pattern="xo_game.dart" type="AUTO_DETECTED" />
@@ -42,6 +43,7 @@
       <mapping pattern="additional_argument" type="AUTO_DETECTED" />
       <mapping pattern="gg" type="AUTO_DETECTED" />
       <mapping pattern="coverage" type="AUTO_DETECTED" />
+      <mapping pattern="post-commit" type="AUTO_DETECTED" />
       <mapping pattern="gen_splash" type="AUTO_DETECTED" />
       <mapping pattern="a" type="AUTO_DETECTED" />
       <mapping pattern="smallcheck" type="AUTO_DETECTED" />
