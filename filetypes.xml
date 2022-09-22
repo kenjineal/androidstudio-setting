@@ -66,6 +66,7 @@
       <mapping pattern="xo_game" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
       <mapping ext="db" type="Android Room SQL" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="xx" type="PLAIN_TEXT" />
@@ -93,6 +94,7 @@
       <mapping ext="develop" type="PLAIN_TEXT" />
       <mapping ext="entitlements" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
