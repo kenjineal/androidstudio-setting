@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TAGG" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="TAGG" />
         <option value="level:error  " />
         <option value="level:verbose  " />
-        <option value="level:error " />
         <option value="error" />
         <option value="package" />
         <option value="package:mine" />
