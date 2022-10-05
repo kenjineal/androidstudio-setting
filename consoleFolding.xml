@@ -4,6 +4,7 @@
       <list>
         <option value="2021-01-20 16:09:44.385 1848-1848/? E/SELinux:" />
         <option value="2022-09-22 23:23:51.816     0-0     audit                   pid-0                                E  rate limit exceeded" />
+        <option value="[ERROR][CORE   ]" />
         <option value="A/seveneleven.de: runtime.cc:657]" />
         <option value="Could not find android.hardware.power.IPower/default in the VINTF manifest." />
         <option value="D/OkHttp: access-control-allow-origin" />
@@ -32,10 +33,13 @@
         <option value="I/netd: trafficSwapActiveStatsMap()" />
         <option value="I/okhttp_plus: expect-ct:" />
         <option value="I/ViewRootImpl" />
+        <option value="L2CAP" />
+        <option value="Predicate" />
         <option value="SchedulerBinding.instance" />
         <option value="SchedulerBinding.instance!" />
         <option value="system_process W/InputReader: Device virtio_input_multi_touch_" />
         <option value="The system cannot find the batch label specified - after_subroutine" />
+        <option value="vendor" />
         <option value="W/art: Attempt to remove non-JNI local reference, dumping thread" />
         <option value="W/FirebaseRemoteConfig(" />
         <option value="W: A resource failed to call" />
@@ -46,7 +50,7 @@
         <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
         <option value="W: validate: layer" />
-        <option value="Predicate" />
+        <option value="notifyError: pid=" />
       </list>
     </option>
   </component>
