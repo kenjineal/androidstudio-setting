@@ -16,6 +16,7 @@
         <option value="D/OkHttp: set-cookie:" />
         <option value="D/OkHttp: x-powered-by:" />
         <option value="D: Initializing SystemTextClassifier" />
+        <option value="E  rate limit exceeded" />
         <option value="E/GnssHAL_GnssInterface: gnssSvStatusCb" />
         <option value="E/memtrack:" />
         <option value="E/SELinux:" />
@@ -45,7 +46,7 @@
         <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
         <option value="W: validate: layer" />
-        <option value="E  rate limit exceeded" />
+        <option value="Predicate" />
       </list>
     </option>
   </component>
