@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="package:mine" />
         <option value="WithLogger" />
         <option value="level:error" />
         <option value="E" />
@@ -14,7 +15,6 @@
         <option value="level:verbose  " />
         <option value="error" />
         <option value="package" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
