@@ -34,6 +34,7 @@
         <option value="I/okhttp_plus: expect-ct:" />
         <option value="I/ViewRootImpl" />
         <option value="L2CAP" />
+        <option value="notifyError: pid=" />
         <option value="Predicate" />
         <option value="SchedulerBinding.instance" />
         <option value="SchedulerBinding.instance!" />
@@ -50,7 +51,7 @@
         <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
         <option value="W: validate: layer" />
-        <option value="notifyError: pid=" />
+        <option value="Error opening kernel" />
       </list>
     </option>
   </component>
