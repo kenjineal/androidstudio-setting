@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:debug  XYZ" />
+    <option name="mostRecentlyUsed" value="level:debug  PKPLUS" />
     <option name="nonFavorites">
       <list>
+        <option value="level:debug  PKPLUS" />
         <option value="level:debug  XYZ" />
         <option value="package:mine XYZ" />
         <option value="level:debug GGWP " />
