@@ -87,6 +87,7 @@
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="symbols" type="PLAIN_TEXT" />
+      <mapping ext="glb" type="PLAIN_TEXT" />
       <mapping ext="ruby" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="yaml " type="PLAIN_TEXT" />
