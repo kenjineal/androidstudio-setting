@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:error " />
+        <option value="package:mine PKPLUS" />
         <option value="level:debug  PKPLUS" />
         <option value="level:debug  XYZ" />
         <option value="package:mine XYZ" />
@@ -22,7 +23,6 @@
         <option value="level:error  " />
         <option value="level:verbose  " />
         <option value="error" />
-        <option value="package" />
       </list>
     </option>
   </component>
