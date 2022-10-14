@@ -26,6 +26,7 @@
         <option value="E: failed to connect to socket" />
         <option value="E: Failed to open QEMU pipe" />
         <option value="E: RemoteConnection failed" />
+        <option value="Error opening kernel" />
         <option value="gnssSvStatusCb" />
         <option value="I/GnssLocationProvider:" />
         <option value="I/GnssLocationProvider: WakeLock released by" />
@@ -51,7 +52,7 @@
         <option value="W: No layers, exit, buffer" />
         <option value="W: No service published" />
         <option value="W: validate: layer" />
-        <option value="Error opening kernel" />
+        <option value="StrategyImpl" />
       </list>
     </option>
   </component>
