@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:debug  " />
+    <option name="mostRecentlyUsed" value="package:mine WithLogger" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WithLogger" />
         <option value="level:debug  " />
         <option value="level:debug okhttp " />
         <option value="package:mine level:error " />
@@ -22,7 +23,6 @@
         <option value="level:error" />
         <option value="E" />
         <option value="tag:error" />
-        <option value="AppLog" />
       </list>
     </option>
   </component>
