@@ -3,11 +3,11 @@
     <option name="mostRecentlyUsed" value="level:debug TAGGG" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="level:debug TAGGG" />
         <option value="level:debug TAGG" />
         <option value="level:error " />
         <option value="TAGG" />
-        <option value="package:mine " />
         <option value="package:mine WithLogger" />
         <option value="level:debug  " />
         <option value="level:debug okhttp " />
