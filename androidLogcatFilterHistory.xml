@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="TAGG" />
         <option value="package:mine " />
         <option value="package:mine WithLogger" />
         <option value="level:debug  " />
@@ -22,7 +23,6 @@
         <option value="WithLogger" />
         <option value="level:error" />
         <option value="E" />
-        <option value="tag:error" />
       </list>
     </option>
   </component>
