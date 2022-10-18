@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="level:debug TAGGG" />
     <option name="nonFavorites">
       <list>
+        <option value="level:debug TAGGG" />
+        <option value="level:debug TAGG" />
+        <option value="level:error " />
         <option value="TAGG" />
         <option value="package:mine " />
         <option value="package:mine WithLogger" />
@@ -15,14 +18,11 @@
         <option value="level:debug  XYZ" />
         <option value="package:mine XYZ" />
         <option value="level:debug GGWP " />
-        <option value="level:error " />
         <option value="level:debug GGWP" />
         <option value="setDebounceOnClickListener" />
         <option value="level:debug GG" />
         <option value="package:mine" />
         <option value="WithLogger" />
-        <option value="level:error" />
-        <option value="E" />
       </list>
     </option>
   </component>
