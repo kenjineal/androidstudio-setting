@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="impl" value="interface $NAME$ {&#10;    $END$&#10;}&#10;&#10;class $NAME$Impl : $NAME$ {&#10;    &#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
