@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="level:debug  " />
         <option value="package:mine level:error " />
@@ -21,7 +22,6 @@
         <option value="level:debug GGWP" />
         <option value="setDebounceOnClickListener" />
         <option value="level:debug GG" />
-        <option value="package:mine" />
         <option value="WithLogger" />
       </list>
     </option>
