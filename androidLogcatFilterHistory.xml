@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine TESTTTT" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:error " />
+        <option value="package:mine TESTTTT" />
         <option value="package:mine" />
+        <option value="package:mine level:error " />
         <option value="package:mine okhttp_plus" />
         <option value="package:mine okhttp_" />
         <option value="package:mine " />
@@ -21,7 +23,6 @@
         <option value="package:mine XYZ" />
         <option value="level:debug GGWP " />
         <option value="level:debug GGWP" />
-        <option value="setDebounceOnClickListener" />
       </list>
     </option>
   </component>
