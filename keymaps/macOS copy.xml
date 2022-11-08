@@ -5,6 +5,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
+  </action>
   <action id="CIDR.Lang.IntroduceParameter" />
   <action id="CIDR.Lang.ObjC.IntroduceProperty" />
   <action id="Console.History.Browse" />
@@ -25,7 +28,6 @@
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="Flutter.Toolbar.ReloadAllAction">
-    <keyboard-shortcut first-keystroke="meta alt back_slash" />
     <keyboard-shortcut first-keystroke="meta alt e" />
     <keyboard-shortcut first-keystroke="shift meta e" />
   </action>
