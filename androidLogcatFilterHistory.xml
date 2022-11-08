@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine CONSOLE" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CONSOLE" />
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine TESTTT" />
         <option value="package:mine level:error " />
         <option value="package:mine TESTT" />
         <option value="package:mine Exception" />
-        <option value="package:mine " />
         <option value="package:mine level:error" />
         <option value="level:error" />
         <option value="TESTTT" />
@@ -22,7 +23,6 @@
         <option value="level:debug TAGGG" />
         <option value="level:debug TAGG" />
         <option value="TAGG" />
-        <option value="package:mine WithLogger" />
       </list>
     </option>
   </component>
