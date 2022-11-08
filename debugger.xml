@@ -81,6 +81,19 @@
       <option name="SHOW_DECLARED_TYPE" value="true" />
       <option name="SHOW_STRINGS_TYPE" value="true" />
     </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.String" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="java.lang.String" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="&#13;&#13;Kotlin" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
   <component name="ThreadsViewSettings">
     <option name="SHOW_SOURCE_NAME" value="true" />
