@@ -94,6 +94,7 @@
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="yaml " type="PLAIN_TEXT" />
       <mapping ext="develop" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="entitlements" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
