@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine ArGameRenderer" />
         <option value="package:mine " />
@@ -16,7 +16,6 @@
         <option value="level:error" />
         <option value="TESTTT" />
         <option value="package:mine TESTTT " />
-        <option value="package:mine" />
         <option value="package:mine TxxTTTTT" />
         <option value="package:mine TESTTTT" />
         <option value="package:mine okhttp_plus" />
