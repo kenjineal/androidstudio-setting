@@ -3,7 +3,7 @@
     <property name="created">2022-01-24T09:11:43</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-01-24T09:16:07</property>
+    <property name="modified">2022-11-12T15:25:48</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
@@ -21,6 +21,31 @@
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
         <option name="FOREGROUND" value="80ca37" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="c7c7c7" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="e1d915" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_INFO">
+      <value>
+        <option name="FOREGROUND" value="33bb0f" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="9d9cff" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_WARNING">
+      <value>
+        <option name="FOREGROUND" value="ff9f65" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
