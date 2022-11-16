@@ -42,6 +42,7 @@
       <mapping pattern="build_web" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="aaaabb" type="AUTO_DETECTED" />
+      <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="finance_no_header_table" type="AUTO_DETECTED" />
       <mapping pattern="update_test" type="AUTO_DETECTED" />
       <mapping pattern="jsonx" type="AUTO_DETECTED" />
