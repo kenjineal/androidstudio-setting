@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhtt" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
         <option value="package:mine okhtt" />
         <option value="package:mine level:error " />
         <option value="okhtt" />
-        <option value="package:mine okhttp" />
         <option value="package:mine okhttp_" />
         <option value="okhttp_plus" />
         <option value="okhttp_" />
