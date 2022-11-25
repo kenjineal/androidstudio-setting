@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine UPLOAD__" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
         <option value="package:mine UPLOAD__" />
         <option value="package:mine WithLogg" />
-        <option value="package:mine okhttp" />
         <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="VISIT_PHOTO" />
