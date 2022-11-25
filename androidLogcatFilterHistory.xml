@@ -4,12 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine okhttp" />
+        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="VISIT_PHOTO" />
         <option value="package:mine TESTT" />
         <option value="okhttp" />
         <option value="package:mine okhtt" />
-        <option value="package:mine level:error " />
         <option value="okhtt" />
         <option value="package:mine okhttp_" />
         <option value="okhttp_plus" />
