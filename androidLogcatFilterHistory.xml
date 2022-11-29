@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine UPLOAD__" />
+    <option name="mostRecentlyUsed" value="package:mine UPLOAD " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine UPLOAD " />
+        <option value="package:mine okhttp_plus " />
+        <option value="package:mine UPLOAD__ " />
+        <option value="package:mine level:error " />
         <option value="package:mine UPLOAD__" />
         <option value="package:mine " />
         <option value="package:mine okhttp" />
-        <option value="package:mine level:error " />
         <option value="package:mine okhttp_" />
         <option value="package:mine WithLogg" />
         <option value="VISIT_PHOTO" />
@@ -20,9 +23,6 @@
         <option value="level:error package:mine " />
         <option value="package:mine level:info okhttp" />
         <option value="package:mine Ob" />
-        <option value="package:mine ObjectService" />
-        <option value="Init gl texture data start." />
-        <option value="package:mine level:debug World" />
       </list>
     </option>
   </component>
