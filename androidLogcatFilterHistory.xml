@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
+        <option value="package:mine " />
+        <option value="package:mine TESTTT" />
+        <option value="package:mine TESTT" />
         <option value="package:mine level:error " />
         <option value="package:mine GetTransactionUseCaseImpl" />
-        <option value="package:mine okhttp" />
         <option value="package:mine LogMiniAppUseCaseImpl" />
         <option value="package:mine" />
         <option value="package:mine level:info " />
-        <option value="package:mine " />
         <option value="package:mine timber" />
-        <option value="package:mine TESTTT" />
         <option value="package:mine UPLOAD__" />
         <option value="package:mine okhttp_ " />
         <option value="package:mine UPLOAD " />
@@ -20,7 +21,6 @@
         <option value="package:mine okhttp_" />
         <option value="package:mine WithLogg" />
         <option value="VISIT_PHOTO" />
-        <option value="package:mine TESTT" />
         <option value="okhttp" />
         <option value="package:mine okhtt" />
       </list>
