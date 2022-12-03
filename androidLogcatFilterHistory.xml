@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine GetTransactionUseCaseImpl" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
         <option value="package:mine GetTransactionUseCaseImpl" />
         <option value="package:mine CalendarPickerDialog" />
-        <option value="package:mine okhttp" />
         <option value="package:mine " />
         <option value="package:mine TESTTT" />
         <option value="package:mine TESTT" />
