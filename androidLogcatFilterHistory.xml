@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine DdebtCallOutWorker" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
+        <option value="package:mine " />
         <option value="package:mine DdebtCallOutWorker" />
         <option value=" package:mine okhttp " />
         <option value="level:error package:mine " />
@@ -10,12 +12,10 @@
         <option value="package:mine TIMBER" />
         <option value="level:error " />
         <option value="package:mine UPLOAD__" />
-        <option value="package:mine okhttp" />
         <option value="package:mine level:error " />
         <option value="package:mine OutgoingCallBroadcastReceiver" />
         <option value="package:mine TESTTT" />
         <option value=":mine " />
-        <option value="package:mine " />
         <option value="package:mine UPLOAD" />
         <option value="package:mine okhtpp" />
         <option value="package:mine GetTransactionUseCaseImpl" />
