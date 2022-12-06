@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine OutgoingCallBroadcastReceiver" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine OutgoingCallBroadcastReceiver" />
         <option value="package:mine level:error " />
+        <option value="level:error " />
+        <option value="package:mine OutgoingCallBroadcastReceiver" />
         <option value="package:mine TESTTT" />
         <option value="package:mine okhttp" />
         <option value=":mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine okhttp_ " />
         <option value="package:mine UPLOAD " />
         <option value="package:mine okhttp_plus " />
-        <option value="package:mine UPLOAD__ " />
       </list>
     </option>
   </component>
