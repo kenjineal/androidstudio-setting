@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:mine  " />
+    <option name="mostRecentlyUsed" value=" package:mine level:debug ArGameRenderer" />
     <option name="nonFavorites">
       <list>
+        <option value=" package:mine level:debug ArGameRenderer" />
+        <option value=" package:mine level:debug " />
+        <option value=" package:mine " />
         <option value=" package:mine  " />
         <option value="package:mine okhttp" />
         <option value="package:mine DdebtCallOutWorker" />
@@ -20,9 +23,6 @@
         <option value="package:mine UPLOAD" />
         <option value="package:mine okhtpp" />
         <option value="package:mine GetTransactionUseCaseImpl" />
-        <option value="package:mine CalendarPickerDialog" />
-        <option value="package:mine TESTT" />
-        <option value="package:mine LogMiniAppUseCaseImpl" />
       </list>
     </option>
   </component>
