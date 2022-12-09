@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ConvertJsonToJsModelUseCaseImpl" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="okhttp" />
         <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
-        <option value="package:mine " />
         <option value="UPLOAD" />
         <option value="upload" />
         <option value="package:mine Upload" />
