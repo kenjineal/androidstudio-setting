@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MiniAppContainerViewModel" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine MiniAppCon" />
         <option value="package:mine MiniAppContainerViewModel" />
         <option value="package:mine Conv" />
         <option value="package:mine MiniAppC" />
         <option value="package:mine Convert" />
         <option value="package:mine " />
         <option value="package:mine" />
-        <option value="package:mine level:error " />
         <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
         <option value="level:error " />
         <option value="Error" />
@@ -22,7 +23,6 @@
         <option value="upload" />
         <option value="package:mine Upload" />
         <option value="package:mine okhtt" />
-        <option value="package:mine ArG" />
       </list>
     </option>
   </component>
