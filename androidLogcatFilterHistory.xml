@@ -1,16 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine MiniAppContainerViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MiniAppContainerViewModel" />
+        <option value="package:mine Conv" />
+        <option value="package:mine MiniAppC" />
+        <option value="package:mine Convert" />
+        <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
-        <option value="package:mine MiniAppContainerViewModel" />
         <option value="level:error " />
         <option value="Error" />
         <option value="package:mine okhttp" />
         <option value="package:mine Timber" />
-        <option value="package:mine " />
         <option value="package:mine distanceState" />
         <option value="package:mine ArGameRender" />
         <option value="okhttp" />
@@ -18,11 +22,7 @@
         <option value="upload" />
         <option value="package:mine Upload" />
         <option value="package:mine okhtt" />
-        <option value="package:mine" />
         <option value="package:mine ArG" />
-        <option value="package:mine ArGa" />
-        <option value="package:mine ArGameR" />
-        <option value=" package:mine ArGame" />
       </list>
     </option>
   </component>
