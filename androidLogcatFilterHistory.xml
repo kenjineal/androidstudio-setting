@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MiniAppCon" />
+    <option name="mostRecentlyUsed" value="package:mine Convert" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Convert" />
         <option value="package:mine MiniAppCon" />
         <option value="package:mine Failed to download file from " />
         <option value="package:mine MiniAppConta" />
@@ -13,7 +14,6 @@
         <option value="package:mine MiniAppContainerViewModel" />
         <option value="package:mine Conv" />
         <option value="package:mine MiniAppC" />
-        <option value="package:mine Convert" />
         <option value="package:mine" />
         <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
         <option value="level:error " />
