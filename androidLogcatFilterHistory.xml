@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MiniAppCon" />
+    <option name="mostRecentlyUsed" value="package:mine upload" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine upload" />
         <option value="package:mine MiniAppCon" />
         <option value="package:mine Convert" />
         <option value="package:mine " />
@@ -14,7 +15,6 @@
         <option value="package:mine MiniApp" />
         <option value="package:mine Conver" />
         <option value="package:mine level:error " />
-        <option value="package:mine upload" />
         <option value="package:mine okhttp" />
         <option value="package:mine Failed to download file from " />
         <option value="package:mine MiniAppConta" />
