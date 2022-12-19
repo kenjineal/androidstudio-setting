@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Conver" />
+    <option name="mostRecentlyUsed" value="package:mine MiniAppContainer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MiniAppContainer" />
+        <option value="package:mine MiniApp" />
         <option value="package:mine Conver" />
         <option value="package:mine level:error " />
         <option value="package:mine Convert" />
@@ -21,8 +23,6 @@
         <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
         <option value="level:error " />
         <option value="Error" />
-        <option value="package:mine Timber" />
-        <option value="package:mine distanceState" />
       </list>
     </option>
   </component>
