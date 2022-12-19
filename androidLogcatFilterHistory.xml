@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine Conver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Conver" />
         <option value="package:mine level:error " />
         <option value="package:mine Convert" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="Error" />
         <option value="package:mine Timber" />
         <option value="package:mine distanceState" />
-        <option value="package:mine ArGameRender" />
       </list>
     </option>
   </component>
