@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ArGa" />
+    <option name="mostRecentlyUsed" value="package:mine DdebtCallOutWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DdebtCallOutWorker" />
         <option value="package:mine ArGa" />
         <option value="package:mine upload" />
         <option value="package:mine MiniAppCon" />
@@ -22,7 +23,6 @@
         <option value="package:mine MiniAppContai" />
         <option value="package:mine MiniAppContainerView" />
         <option value="package:mine MiniAppContainerViewModel" />
-        <option value="package:mine Conv" />
       </list>
     </option>
   </component>
