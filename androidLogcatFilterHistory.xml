@@ -4,6 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine DdebtCallOutWorker" />
+        <option value="package:mine level:error " />
+        <option value="package:mine call start worker" />
+        <option value="package:mine Telephony" />
+        <option value="package:mine TelephonyCallback" />
+        <option value="package:mine OutgoingCallBroadcastReceiver" />
         <option value="package:mine ArGa" />
         <option value="package:mine upload" />
         <option value="package:mine MiniAppCon" />
@@ -16,13 +21,8 @@
         <option value="package:mine MiniAppContainer" />
         <option value="package:mine MiniApp" />
         <option value="package:mine Conver" />
-        <option value="package:mine level:error " />
         <option value="package:mine okhttp" />
         <option value="package:mine Failed to download file from " />
-        <option value="package:mine MiniAppConta" />
-        <option value="package:mine MiniAppContai" />
-        <option value="package:mine MiniAppContainerView" />
-        <option value="package:mine MiniAppContainerViewModel" />
       </list>
     </option>
   </component>
