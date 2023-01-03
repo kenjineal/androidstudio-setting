@@ -40,6 +40,7 @@
       <mapping pattern="db" type="AUTO_DETECTED" />
       <mapping pattern="tt" type="AUTO_DETECTED" />
       <mapping pattern="build_web" type="AUTO_DETECTED" />
+      <mapping pattern="star_buck_demo.dart" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="aaaabb" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
@@ -82,8 +83,8 @@
       <mapping pattern="ggwp" type="PLAIN_TEXT" />
       <mapping pattern="testk" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="feed/root.json" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern="feed/root.json" type="PLAIN_TEXT" />
       <mapping pattern="ss2" type="PLAIN_TEXT" />
       <mapping pattern="1037" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
