@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.35:5555" />
+            <value value="R52M8114B1N" />
           </Key>
         </key>
         <name value="samsung SM-T865" />
@@ -16,7 +16,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R52M8114B1N" />
+            <value value="192.168.1.35:5555" />
           </Key>
         </key>
         <name value="samsung SM-T865" />
