@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine sigg" />
+    <option name="mostRecentlyUsed" value="package:mine okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine okhttp" />
+        <option value="package:mine level:error " />
+        <option value="package:mine MainActivity" />
         <option value="package:mine sigg" />
         <option value="package:mine  siggggg" />
         <option value="package:mine  siggggg " />
         <option value="package:mine  level:error " />
         <option value="package:mine sig level:error " />
         <option value="package:mine sig" />
-        <option value="package:mine okhttp" />
         <option value="package:mine upload" />
-        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine Upload" />
         <option value="package:mine lo" />
@@ -22,7 +23,6 @@
         <option value="package:mine DdebtCallOutWorker" />
         <option value="package:mine call start worker" />
         <option value="package:mine Telephony" />
-        <option value="package:mine ArGa" />
       </list>
     </option>
   </component>
