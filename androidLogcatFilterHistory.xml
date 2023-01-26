@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  siggggg" />
+    <option name="mostRecentlyUsed" value="package:mine sigg" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine sigg" />
         <option value="package:mine  siggggg" />
         <option value="package:mine  siggggg " />
         <option value="package:mine  level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine call start worker" />
         <option value="package:mine Telephony" />
         <option value="package:mine ArGa" />
-        <option value="package:mine MiniAppCon" />
       </list>
     </option>
   </component>
