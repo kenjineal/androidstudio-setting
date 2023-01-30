@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine MoveAnima" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MoveAnima" />
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine IsExpireUseCase" />
         <option value="package:mine checl" />
-        <option value="package:mine " />
         <option value="package:mine FileWo" />
         <option value="package:mine CallOut" />
         <option value="package:mine MERGE" />
@@ -22,7 +23,6 @@
         <option value="package:mine Upload" />
         <option value="package:mine lo" />
         <option value="package:mine TelephonyCallback" />
-        <option value="package:mine OutgoingCallBroadcastReceiver" />
       </list>
     </option>
   </component>
