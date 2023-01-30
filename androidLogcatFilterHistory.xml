@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine IsExpireUseCase" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine IsExpireUseCase" />
         <option value="package:mine checl" />
-        <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="package:mine FileWo" />
         <option value="package:mine CallOut" />
