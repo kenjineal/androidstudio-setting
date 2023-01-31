@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine MoveAnimation" />
         <option value="package:mine MoveAnima" />
-        <option value="package:mine level:error " />
         <option value="package:mine IsExpireUseCase" />
         <option value="package:mine checl" />
         <option value="package:mine FileWo" />
@@ -22,7 +23,6 @@
         <option value="package:mine sig" />
         <option value="package:mine upload" />
         <option value="package:mine Upload" />
-        <option value="package:mine lo" />
       </list>
     </option>
   </component>
