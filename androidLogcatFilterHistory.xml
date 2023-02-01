@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ArGame" />
+    <option name="mostRecentlyUsed" value="package:mine Ar" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine ArGame" />
-        <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
+        <option value="package:mine Ar" />
         <option value="package:mine level:error " />
         <option value="package:mine" />
+        <option value="package:mine ArGame" />
+        <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
         <option value="package:mine " />
         <option value="package:mine MoveAnimation" />
         <option value="package:mine MoveAnima" />
@@ -22,7 +23,6 @@
         <option value="package:mine  siggggg " />
         <option value="package:mine  level:error " />
         <option value="package:mine sig level:error " />
-        <option value="package:mine sig" />
       </list>
     </option>
   </component>
