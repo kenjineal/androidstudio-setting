@@ -4,7 +4,7 @@
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
   <action id="AndroidConnectDebuggerAction">
-    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
   </action>
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="meta alt quote" />
