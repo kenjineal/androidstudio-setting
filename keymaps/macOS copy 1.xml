@@ -1,0 +1,14 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
+  </action>
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="meta alt quote" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="Flutter.Toolbar.ReloadAllAction" />
+</keymap>
