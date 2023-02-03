@@ -77,6 +77,7 @@
       <mapping pattern="build_retry" type="PLAIN_TEXT" />
       <mapping pattern="already_map_key" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern=".env.uat" type="PLAIN_TEXT" />
       <mapping pattern="SkillEntity" type="PLAIN_TEXT" />
       <mapping pattern="x" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
