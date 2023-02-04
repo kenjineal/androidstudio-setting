@@ -11,6 +11,10 @@
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="Flutter.Toolbar.ReloadAllAction" />
+  <action id="GotoSymbol" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
