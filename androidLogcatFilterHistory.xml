@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Ddeb" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Ddeb" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine Convert" />
@@ -21,7 +23,6 @@
         <option value="package:mine MainActivity" />
         <option value="package:mine sigg" />
         <option value="package:mine  siggggg" />
-        <option value="package:mine  siggggg " />
       </list>
     </option>
   </component>
