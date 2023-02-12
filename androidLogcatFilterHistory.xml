@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:debug Conver" />
+    <option name="mostRecentlyUsed" value="Convert" />
     <option name="nonFavorites">
       <list>
+        <option value="Convert" />
+        <option value="package:mine level:debug Convert" />
+        <option value="package:mine level:debug mobileEventTrigger" />
+        <option value="package:mine level:debug Container" />
         <option value="package:mine level:debug Conver" />
         <option value="package:mine level:debug " />
         <option value="package:mine Conv" />
@@ -19,10 +23,6 @@
         <option value="package:mine ConvertJsonToJsModelUseCaseImpl" />
         <option value="package:mine MoveAnimation" />
         <option value="package:mine MoveAnima" />
-        <option value="package:mine IsExpireUseCase" />
-        <option value="package:mine checl" />
-        <option value="package:mine FileWo" />
-        <option value="package:mine CallOut" />
       </list>
     </option>
   </component>
