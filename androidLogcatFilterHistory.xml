@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Conv" />
+    <option name="mostRecentlyUsed" value="package:mine level:debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:debug " />
         <option value="package:mine Conv" />
         <option value="package:mine " />
         <option value="package:mine Convert" />
@@ -22,7 +23,6 @@
         <option value="package:mine FileWo" />
         <option value="package:mine CallOut" />
         <option value="package:mine MERGE" />
-        <option value="package:mine okhttp" />
       </list>
     </option>
   </component>
