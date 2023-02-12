@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Move" />
+    <option name="mostRecentlyUsed" value="package:mine Conv" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine Move" />
+        <option value="package:mine Conv" />
         <option value="package:mine " />
+        <option value="package:mine Convert" />
+        <option value="package:mine Move" />
         <option value="package:mine FileDownloadWorker" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine Ddeb" />
-        <option value="package:mine Convert" />
         <option value="package:mine ArG" />
         <option value="package:mine ArGame" />
         <option value="package:mine Ar" />
@@ -22,7 +23,6 @@
         <option value="package:mine CallOut" />
         <option value="package:mine MERGE" />
         <option value="package:mine okhttp" />
-        <option value="package:mine MainActivity" />
       </list>
     </option>
   </component>
