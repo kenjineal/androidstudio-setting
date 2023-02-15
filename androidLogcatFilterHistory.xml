@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Convert" />
+    <option name="mostRecentlyUsed" value="package:mine ArGameViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ArGameViewModel" />
         <option value="package:mine Convert" />
         <option value="package:mine " />
         <option value="package:mine Singl" />
@@ -22,7 +23,6 @@
         <option value="package:mine Ddeb" />
         <option value="package:mine ArG" />
         <option value="package:mine ArGame" />
-        <option value="package:mine Ar" />
       </list>
     </option>
   </component>
