@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ArFr" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine ArFr" />
         <option value="package:mine ArGameViewModel" />
         <option value="package:mine Convert" />
@@ -10,7 +11,6 @@
         <option value="package:mine Singl" />
         <option value="package:mine Single" />
         <option value="package:mine Container" />
-        <option value="package:mine level:error " />
         <option value="Convert" />
         <option value="package:mine level:debug Convert" />
         <option value="package:mine level:debug mobileEventTrigger" />
