@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine intensityintensity" />
+    <option name="mostRecentlyUsed" value="package:mine viewLightDirection" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine viewLightDirection" />
         <option value="package:mine intensityintensity" />
         <option value="package:mine " />
         <option value="package:mine xxxxxxxx" />
@@ -22,7 +23,6 @@
         <option value="package:mine level:debug Convert" />
         <option value="package:mine level:debug mobileEventTrigger" />
         <option value="package:mine level:debug Container" />
-        <option value="package:mine level:debug Conver" />
       </list>
     </option>
   </component>
