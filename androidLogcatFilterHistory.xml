@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine abo" />
+    <option name="mostRecentlyUsed" value="package:mine PLUS__" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine abo" />
         <option value="package:mine PLUS__" />
+        <option value="package:mine abo" />
         <option value="package:mine " />
         <option value="package:mine level:error g" />
         <option value="package:mine ArGame" />
